@@ -1,0 +1,15 @@
+print("hello stampy and squid")
+print("olah")
+print("ffvvvbvvvb")
+print("tvtbbbthhj")
+print("thhrbvgtvhsggggggggggg")
+print("really Robin Hood KIngdoin")
+print("oh my")
+print("<:)")
+name = "stampy"
+print("I <3 " + name)
+print("how many people on earth?")
+print(" A 0 ")
+print(" B !@#%6575 ")
+aswer = input("?")
+print("you awnsered
